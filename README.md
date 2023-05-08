@@ -2,7 +2,7 @@
 
 
 ## About :sunglasses:
- First year software developer from South Africa. Experienced in Java, C#, Python, HTML,CSS, and SQL
+Second Year software developer from South Africa. Experienced in Java, C#, Python, HTML,CSS, and SQL
  
 ## Currently Working on ✍️
  
