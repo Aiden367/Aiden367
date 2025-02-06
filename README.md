@@ -2,10 +2,10 @@
 
 
 ## About :sunglasses:
-
+- Software engineer based in Cape Town South Africa
  
 ## Currently Working on ✍️
- 
+- Website to sell reptiles
 
 <!--
 **Aiden367/Aiden367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
