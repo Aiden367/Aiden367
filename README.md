@@ -2,10 +2,10 @@
 
 
 ## About :sunglasses:
-- Software engineer based in Cape Town South Africa
+- Software Engineer based in Cape Town South Africa.
  
 ## Currently Working on ✍️
-- Website to sell reptiles
+- AutoDreamZA a website that sells car modification.
 
 <!--
 **Aiden367/Aiden367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
