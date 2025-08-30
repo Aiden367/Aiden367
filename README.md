@@ -11,26 +11,33 @@
 ---
 
 ### 🔭 Currently Working On
+---
 - **Liquid Socialisation**
 
 ### 🌱 Currently Learning
+---
 - **C++**
 
 ### 👯 Looking to Collaborate On
+---
 - **Any Project**
 
 ### 💬 Ask Me About
+---
 - **React, C#, Java, Kotlin, Android Development**
 
 ### 📫 How to Reach Me
+---
 - **aidenbyrne53@gmail.com**
 
 ### ⚡ Fun Fact
+---
 - **JavaScript is a terrible language**
 
 ---
 
 ### Connect with Me
+---
 <p align="left">
   <a href="https://linkedin.com/in/aiden-byrne" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
@@ -43,6 +50,7 @@
 ---
 
 ### Languages & Tools
+---
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -67,6 +75,7 @@
 ---
 
 ### GitHub Stats
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aiden367&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
