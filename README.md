@@ -4,7 +4,7 @@
 Experienced backend developer with 4+ years of hands-on programming experience, specializing in scalable system architecture and efficient software solutions. Passionate about building robust applications that solve real-world problems.
 
 ## 🚀 Current Focus
-- **Active Project:** Liquid Socialisation - Building innovative social connectivity solutions
+- **Active Project:** CargoLink - Logistics tracking application
 - **Learning:** Advanced C++ programming and system optimization
 - **Open to:** Collaborative projects and new opportunities in backend development
 
