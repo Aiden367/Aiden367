@@ -4,7 +4,7 @@
 Experienced backend developer with 4+ years of hands-on programming experience, specializing in scalable system architecture and efficient software solutions. Passionate about building robust applications that solve real-world problems.
 
 ## 🚀 Current Focus
-- **Active Project:** CargoLink - Logistics tracking application
+- **Active Project:** FinanceFlow - Finance Tracking Application
 - **Learning:** Advanced C++ programming and system optimization
 - **Open to:** Collaborative projects and new opportunities in backend development
 
