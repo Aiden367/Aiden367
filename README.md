@@ -1,7 +1,7 @@
 # Aiden Byrne
 **Backend Developer | Computer Science Graduate**
 
-Experienced backend developer with 4+ years of hands-on programming experience, specializing in scalable system architecture and efficient software solutions. Passionate about building robust applications that solve real-world problems.
+Experienced backend developer with 4+ years of hands-on programming experience, specializing in scalable system architecture and efficient software solutions. Passionate about building robust applications that solve real-world problems
 
 ## 🚀 Current Focus
 - **Active Project:** FinanceFlow - Finance Tracking Application
