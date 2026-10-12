@@ -3,12 +3,12 @@
 
 Experienced backend developer with 4+ years of hands-on programming experience, specializing in scalable system architecture and efficient software solutions. Passionate about building robust applications that solve real-world problems
 
-## 🚀 Current Focus
+## Current Focus
 - **Active Project:** FarmFree - the first completely free farm management platform.
 - **Learning:** Advanced C++ programming and system optimization
 - **Open to:** Collaborative projects and new opportunities in backend development
 
-## 💼 Technical Expertise
+## Technical Expertise
 
 ### Backend Technologies
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -47,14 +47,14 @@ Experienced backend developer with 4+ years of hands-on programming experience, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aiden367&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🎯 Professional Goals
+## Professional Goals
 Seeking opportunities to contribute to innovative backend systems at leading technology companies, with a focus on:
 - Scalable microservices architecture
 - High-performance API development
 - Cloud-native solutions
 - System optimization and reliability
 
-## 🤝 Let's Connect
+## Let's Connect
 I'm always interested in discussing new projects, technical challenges, or potential collaborations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aiden-byrne)
